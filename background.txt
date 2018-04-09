@@ -1,0 +1,11 @@
+1. 0x0f OR 0xff = 255
+(0x0f OR 0xff) << 24 = 0xff000000
+
+2. 2 mA
+
+3. asl.conf (1051 bytes)
+117 files and directories
+Commands used:
+  $ cd /etc
+  $ ls -l
+  $ ls -a | wc -l
